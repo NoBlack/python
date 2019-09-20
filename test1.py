@@ -6,7 +6,7 @@ def x():
     pass
 
 
-def y():
+def y():1
     pass
 
 
@@ -15,3 +15,6 @@ def b():
 
 
 b = 10
+
+
+
